@@ -1,2 +1,2 @@
-# yoshiyone's homepage
+## yoshiyone's homepage
 ## Test
