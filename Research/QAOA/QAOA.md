@@ -38,15 +38,6 @@ Combinational optimization problem.
 
 3. Classical-quantum hybrid algorithm.
    
-    $$ \begin{aligned}
-    a+b&=c\\
-    b&=c
-    \end{aligned} $$
-
-$$ \begin{equation}
-    \alpha+\beta=\gamma
-\end{equation} $$
-
 ## Further Problems
 
 - QUBO?
