@@ -37,7 +37,7 @@ Combinational optimization problem.
    $$|\gamma,\beta\rangle=U(B,\beta_p)U(C,\gamma_p)\cdots U(B,\beta_1)U(C,\gamma_1)|s\rangle$$
 
 3. Classical-quantum hybrid algorithm.
-   
+
 ## Further Problems
 
 - QUBO?
@@ -45,3 +45,7 @@ Combinational optimization problem.
 ## Reference
 
 1. [A Quantum Approximate Optimization Algorithm](https://arxiv.org/abs/1411.4028v1)
+
+## Back to homepage
+
+Click [here](../../readme.md) to go back to homepage.
