@@ -2,4 +2,6 @@
 
 ## Test 1
 
-Test dir.
+Test page.
+
+You can go back to the homepage [here](../readme.md).
