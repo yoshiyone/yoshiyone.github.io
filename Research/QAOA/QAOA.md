@@ -3,7 +3,7 @@
 MathJax = {
 tex: {
 inlineMath: [['$', '$']],
-displayMath: [['\\[', '\\]']],
+displayMath: [['$$', '$$']],
 processEnvironments: true,
 processRefs: true
 },
@@ -42,9 +42,7 @@ Combinational optimization problem.
 
 1. Map the problems into an optimization problem which has a cost function $\langle C \rangle$.
 2. Construct the ansatz state:
-$$
-|\gamma,\beta\rangle=U(B,\beta_p)U(C,\gamma_p)\cdots U(B,\beta_1)U(C,\gamma_1)|s\rangle
-$$
+$$|\gamma,\beta\rangle=U(B,\beta_p)U(C,\gamma_p)\cdots U(B,\beta_1)U(C,\gamma_1)|s\rangle$$
 
 3. Classical-quantum hybrid algorithm.
 
