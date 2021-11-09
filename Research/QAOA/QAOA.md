@@ -41,11 +41,9 @@ Combinational optimization problem.
     b&=c
     \end{aligned} $$
 
-$$
-\begin{equation}
+$$ \begin{equation}
     \alpha+\beta=\gamma
-\end{equation}
-$$
+\end{equation} $$
 
 ## Further Problems
 
