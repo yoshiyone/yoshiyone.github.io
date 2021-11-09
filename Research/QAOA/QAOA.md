@@ -1,15 +1,14 @@
 <head>
-    <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css"
-    />
-    <script
-    src="https://cdn.jsdelivr.net/combine/npm/katex/dist/katex.min.js,npm/katex/dist/contrib/mathtex-script-type.min.js,npm/katex/dist/contrib/auto-render.min.js"
-    defer="defer"
-    onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
-    ></script>
+<link
+rel="stylesheet"
+href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css"
+/>
+<script
+src="https://cdn.jsdelivr.net/combine/npm/katex/dist/katex.min.js,npm/katex/dist/contrib/mathtex-script-type.min.js,npm/katex/dist/contrib/auto-render.min.js"
+defer="defer"
+onload='renderMathInElement(document.body, { delimiters: [{ left: "$", right: "$", display: false }] })'
+></script>
 </head>
-
 
 # Introduction to QAOA
 
