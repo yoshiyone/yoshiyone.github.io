@@ -41,6 +41,12 @@ Combinational optimization problem.
     b&=c
     \end{aligned} $$
 
+$$
+\begin{equation}
+    \alpha+\beta=\gamma
+\end{equation}
+$$
+
 ## Further Problems
 
 - QUBO?
