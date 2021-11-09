@@ -36,11 +36,10 @@ Combinational optimization problem.
    $$|\gamma,\beta\rangle=U(B,\beta_p)U(C,\gamma_p)\cdots U(B,\beta_1)U(C,\gamma_1)|s\rangle$$
 
 3. Classical-quantum hybrid algorithm.
-
-$$\begin{aligned}
+    $$ \begin{aligned}
     a+b&=c\\
     b&=c
-\end{aligned}$$
+    \end{aligned} $$
 
 ## Further Problems
 
