@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: [yoshiyone's homepage]
 description: [This is yoshiyone's homepage. You'll find some notes here. If you find something wrong you can write issues to my github repository.]
+markdown: kramdown
