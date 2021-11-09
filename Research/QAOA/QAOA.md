@@ -7,8 +7,7 @@
         }
         },
         tex2jax: {
-        inlineMath: [ ['$', '$'] ],
-        displayMath: [ ['$$', '$$'] ],[['\\(','\\)']]
+        inlineMath: [ ['$', '$'] ],[['\\(','\\)']]
         processEscapes: true,
     }
     });
