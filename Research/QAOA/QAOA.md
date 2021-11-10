@@ -1,7 +1,4 @@
----
-layout: default
-mathjax: true
----
+{% include head.html %}
 # Introduction to QAOA
 
 ## Goal
