@@ -24,4 +24,4 @@ Combinational optimization problem.
 
 ## Back to homepage
 
-Click [here](../../readme.md) to go back to homepage.
+Click [here](../../index.md) to go back to homepage.
