@@ -4,4 +4,4 @@
 
 Test page.
 
-You can go back to the homepage [here](../readme.md).
+You can go back to the homepage [here](../index.md).
