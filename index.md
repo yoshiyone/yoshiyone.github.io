@@ -9,3 +9,5 @@ This is yoshiyone's homepage. You might find some notes about theoretical physic
 [Test page](Test/test1.md)
 
 [QAOA](Research/QAOA/QAOA.md)
+
+[canonical form](Research/TensorNetwork/canonical_form.md)
