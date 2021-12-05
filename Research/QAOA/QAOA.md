@@ -1,4 +1,5 @@
 {% include head.html %}
+
 # Introduction to QAOA
 
 ## Goal
