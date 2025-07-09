@@ -1,12 +1,30 @@
-# yoshiyone's homepage
+# Rui-Cheng Guo's homepage
 
-## Before reading the notes below
+## Brief Introduction
 
-This is yoshiyone's homepage. You might find some notes about theoretical physics here. I can't ensure that all my notes are correct. If you find something wrong, you can contact me by writing issues to the repository.
+I'm Rui-Cheng Guo from Department of Physics, Tsinghua University.
 
-## Test: Establish a personal homepage with markdown
+## Education
 
-[Test page](Test/test1.md)
+**2021.09 - Now**, **PhD**
+
+Department of Physics, Tsinghua University.
+
+Research interest: Quantum Information.
+
+**2017.09 - 2021.06**, **Bachelor Degree**
+
+Department of Physics, Tsinghua University.
+
+## Publications
+
+See [Google Scholar](https://scholar.google.com/citations?user=bPYIhnkAAAAJ&hl=en).
+
+## Future Plans
+
+Maybe change careers to computer science / the tech industry / software engineering.
+
+## A few notes about quantum physics
 
 [QAOA](Research/QAOA/QAOA.md)
 
